@@ -7,9 +7,16 @@
     },
     "CDD": {
         "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.02
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-4780",
+                "uuid": "99624764-186f-45b2-a804-75b61820a469"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.025684488872965
     },
     "H1": {
         "error": 0.0,
